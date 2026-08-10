@@ -11,11 +11,11 @@
 
 Urban and transport planner with a Master's in GIS for Environment and Development and over seven years of applied experience in travel and freight demand modelling, spatial analysis, and large-scale transport survey data across Bangladesh.
 
-- 🌍 **Expertise**: Travel Demand Modelling, Freight Modelling, GIS & Network Analysis
-- 🔭 **Current Focus**: Comprehensive Transport Masterplan, Gazipur City Corporation
+- 🌍 **Expertise**: Four-step travel demand modelling, Network Analysis and Performance Evaluation, Scenario Testing and Impact Assessment, Junction Design & Performance Evaluation, Spatial Analysis.
+- 🔭 **Current Focus**: Four-step Modelling, Traffic Impact Assessment, Traffic Management Plan
 - 📍 **Location**: Dhaka, Bangladesh
 - 🎓 **Education**: MS GIS for Environment and Development, BURP Urban & Regional Planning (Jahangirnagar University)
-- 💼 **Industry Experience**: Transport Planning, Mass Transit, TOD, Road Safety
+- 💼 **Industry Experience**: Transport Planning, Transit Oriented Development, Road Safety Analysis
 
 ---
 
