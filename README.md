@@ -1,73 +1,44 @@
+# Sourav Das Partha
 
-# Hi, I'm Sourav Das Partha 👋
+### Transport Planner · Spatial Data Analyst · Urban Mobility Researcher
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Transport+Planner+%26+Modeller;Travel+Demand+Modelling;GIS+%26+Spatial+Analysis)](https://git.io/typing-svg)
+I am a transport planner and spatial data analyst based in Dhaka, Bangladesh. My professional and research work focuses on travel demand modeling, public transport, road safety, traffic analysis, and GIS-based planning in rapidly urbanizing and data-constrained cities.
 
-</div>
+I currently work at **Nippon Koei Bangladesh Ltd.**, where I contribute to transport master planning, four-step travel demand modeling, public transport network development, freight analysis, and spatial assessment.
 
-## 🎯 About Me
+## Areas of Interest
 
-Urban and transport planner with a Master's in GIS for Environment and Development and over seven years of applied experience in travel and freight demand modelling, spatial analysis, and large-scale transport survey data across Bangladesh.
+- Travel demand modeling under data scarcity
+- Public transport and informal mobility
+- Transport accessibility and disadvantage
+- Road crash analysis and spatial safety assessment
+- Sustainable and climate-responsive urban mobility
+- Land-use and transport integration
 
-- 🌍 **Expertise**: Four-step travel demand modelling, Network Analysis and Performance Evaluation, Scenario Testing and Impact Assessment, Junction Design & Performance Evaluation, Spatial Analysis.
-- 🔭 **Current Focus**: Four-step Modelling, Traffic Impact Assessment, Traffic Management Plan
-- 📍 **Location**: Dhaka, Bangladesh
-- 🎓 **Education**: MS GIS for Environment and Development, BURP Urban & Regional Planning (Jahangirnagar University)
-- 💼 **Industry Experience**: Transport Planning, Transit Oriented Development, Road Safety Analysis
+## Current Work
 
----
+- Developing and applying four-step travel demand models
+- Estimating mode-choice models using stated-preference and household travel data
+- Conducting GIS-based road safety and accessibility assessments
+- Analyzing public transport networks, ridership, and freight movement
+- Exploring transport disadvantage and its relationship with social and health inequalities
 
-## 🛠️ Tech Stack & Skills
+## Methods and Tools
 
-### **Transport Modelling**
-![TransCAD](https://img.shields.io/badge/TransCAD-1F4E79?style=for-the-badge)
-![PTV Vissim](https://img.shields.io/badge/PTV_Vissim-005CA9?style=for-the-badge)
-![SIDRA](https://img.shields.io/badge/SIDRA_Intersection-C8102E?style=for-the-badge)
+**Modeling and analysis:** Python, R, Stata, Biogeme, TransCAD  
+**GIS and spatial analysis:** ArcGIS Pro, QGIS  
+**Traffic and design:** SIDRA Intersection, Civil 3D  
+**Data collection and management:** KoboToolbox, Excel, SPSS
 
-**Modelling Expertise:** Four-step travel demand modelling, trip generation and distribution, nested logit mode choice, traffic assignment, OD matrix development, freight demand estimation
+## Selected Links
 
-### **GIS & Spatial Analysis**
-![ArcGIS](https://img.shields.io/badge/ArcGIS_Pro-2C5282?style=for-the-badge&logo=esri&logoColor=white)
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
+- [Portfolio](https://souravdaspartha.github.io/)
+- [Professional Projects](https://souravdaspartha.github.io/projects/)
+- [Maps and Spatial Outputs](https://souravdaspartha.github.io/maps/)
+- [Research](https://souravdaspartha.github.io/publications/)
+- [Curriculum Vitae](https://souravdaspartha.github.io/files/sourav-das-partha-cv.pdf)
 
-### **Programming & Analysis**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Stata](https://img.shields.io/badge/Stata-1A5F7A?style=for-the-badge)
+## Contact
 
-### **Design & CAD**
-![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white)
-![Civil 3D](https://img.shields.io/badge/Civil_3D-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
-![SketchUp](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
-
----
-
-## 🔬 Research Interests
-
-- Travel demand modelling under data scarcity in low-resource urban contexts
-- Microscopic modelling of traffic emissions in heterogeneous traffic
-- Road safety: crash severity, spatial hotspots, and exposure from demand models
-- Electric three-wheelers in sustainable urban mobility transitions
-
----
-
-## 📫 Connect
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-souravdaspartha.github.io-2F81F7?style=for-the-badge)](https://souravdaspartha.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourav-das-partha)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:souravdaspartha@gmail.com)
-
-
-
-
-
-
-
-
-
-
-
-
+- [LinkedIn](https://www.linkedin.com/in/sourav-das-partha)
+- [Email](mailto:souravdaspartha@gmail.com)
